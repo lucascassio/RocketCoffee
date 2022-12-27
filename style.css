@@ -302,7 +302,7 @@
     line-height: 1.9rem;
 
     letter-spacing: 0.02em;
-    border-bottom:  2px solid black;
+    border-bottom:  2px solid var(--button);
     
     color: var(--text-color);
     }
